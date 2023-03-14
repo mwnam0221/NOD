@@ -10,17 +10,8 @@
 
 # interactive plots
 *.html
-data/
-results/
-results1/
-results2/
 *txt
-sample_dataset/
-model/
-weights/
 *.mp4
-runs/
-sample_dataset/
 *.jpg
 *.png
 
@@ -34,3 +25,4 @@ ckpt/
 *.gif
 *.json
 *.NEF
+*.JPG
