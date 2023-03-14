@@ -1,0 +1,36 @@
+# zip files
+*.zip
+
+# exports
+*_openvino_model
+*.torchscript
+*.pt
+*.onnx
+*.engine
+
+# interactive plots
+*.html
+data/
+results/
+results1/
+results2/
+*txt
+sample_dataset/
+model/
+weights/
+*.mp4
+runs/
+sample_dataset/
+*.jpg
+*.png
+
+*.pth
+*ckpt
+ckpt/
+
+*.npz
+*.zip
+*.npy
+*.gif
+*.json
+*.NEF
